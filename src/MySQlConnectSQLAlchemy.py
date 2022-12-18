@@ -1,0 +1,1 @@
+connect_string = "mysql+pymysql://hhill:May2Ute7@localhost/hhill"
